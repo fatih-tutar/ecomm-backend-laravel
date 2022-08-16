@@ -1,3 +1,7 @@
+## Project Steps
+1 - Sign up API. A request was sent from the interface written with ReactJS to the backend written with Laravel. \
+2 - Login api made with Laravel. Tested via postman. \
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
